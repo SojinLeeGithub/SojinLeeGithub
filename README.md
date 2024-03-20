@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi, I'm Sojin :kissing_closed_eyes:</h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 새로운 언어를 배우는 것이 즐겁습니다.</li><li> 고민하고 문제해결하는 것을 좋아합니다.</li><li> 새로운 도전을 좋아합니다.  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> I love learning new languages.</li><li> I enjoy a challenge and solving problems </li><li> i'm currently looking for a job </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
