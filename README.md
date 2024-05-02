@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello,%20World!&animation=twinkling&fontColor=ffffff&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi, I'm Sojin :kissing_closed_eyes:</h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi, I'm Sojin :kissing_closed_eyes:</h2>🌷🌸🍒🎀👗 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> I love learning new languages.</li><li> I enjoy a challenge and solving problems. </li><li> i'm currently looking for a job. <li>My personality keyword: Easy-going, Hard-working, Methodical,Proactive and Enthusiasm</li></div><li>My strength is the ability to work in an international environment and with people from all over the world<li>I'm goot at organizing</li>
     </div>
     <div style="text-align: left;">
